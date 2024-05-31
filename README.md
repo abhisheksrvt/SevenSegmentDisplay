@@ -136,7 +136,7 @@ Created by Abhishek Srivastava. Feel free to reach out at [srvt.abhishek@example
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 ```
 
-### Example LICENSE (MIT License)
+### LICENSE (MIT License)
 
 ```plaintext
 MIT License
